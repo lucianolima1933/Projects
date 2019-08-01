@@ -1,4 +1,5 @@
 # README.TXT
+# Copyright © Luciano Lima (luciano.lima1933@gmail.com), 2017-2019
 # Crypto Exchange Websocket integration example
 # Using a known websocket to receive real time data (we are using BITMEX Websocket and CCXT library (REST)
 # the resulting output can be used on backend or front end solutions (100% portable to TKInter or other GUIs)
@@ -32,3 +33,18 @@
 #   However, you can create a scrolling window for Times&Trades and/or Book Level II (Buy & Sell Offers)
 #   Also you can adapt this code to Python Graphical Interfaces, scallable to Windows, Linux /Unix and other OS.
 ##################################################################################################################
+DISCLAIMER:
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+
