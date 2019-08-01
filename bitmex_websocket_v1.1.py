@@ -8,6 +8,15 @@
 #  --- 16-04-2019: added error treatment on CCXT, fixing book LII data
 #  --- 23-06-2019: adjustments to accomodate more digits in screen, as the price rose to >10k
 #  ---
+# Copyright © Luciano Lima (luciano.lima1933@gmail.com), 2017-2019
+# Crypto Exchange Websocket integration example
+# Using a known websocket to receive real time data (we are using BITMEX Websocket and CCXT library (REST)
+# the resulting output can be used on backend or front end solutions (100% portable to TKInter or other GUIs)
+# Developed by Luciano Lima, 2017-2019
+# This Project is an Open Source contribution for the software and traders communities.
+# Released under GNU license (read GNU files included)
+# luciano.lima1933@gmail.com
+#
 # Standard Modules to be used
 import sys
 import locale
