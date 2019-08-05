@@ -19,14 +19,14 @@
 #  --- 27-02-2019: including Chart Data (using CCXT OHLC for 3mins and current trading Day), amplitude and frequency
 #  --- 20-03-2019: allowing user to choose environment 1:Prod 2:Testnet
 #  --- 16-04-2019: added error treatment on CCXT, fixing book LII data
-#  --- 23-06-2019: adjustments to accomodate more digits in screen, as the price rose to >10k
+#  --- 23-06-2019: adjustments to accomodate more digits on screen, as the price rose to >10k
 #  ---
 # Copyright © Luciano Lima (luciano.lima1933@gmail.com), 2017-2019
 # Crypto Exchange Websocket integration example
 # Using a known websocket to receive real time data (we are using BITMEX Websocket and CCXT library (REST)
 # the resulting output can be used on backend or front end solutions (100% portable to TKInter or other GUIs)
 # Developed by Luciano Lima, 2017-2019
-# This Project is an Open Source contribution for the software and traders communities.
+# This code is only a portion of a full solution. If you need a robust solution, able to send orders, strategies, etc, send an e-mail.
 # Released under GNU license (read GNU files included)
 # luciano.lima1933@gmail.com
 #
