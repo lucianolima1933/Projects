@@ -4,7 +4,8 @@
 # Using a known websocket to receive real time data (we are using BITMEX Websocket and CCXT library (REST)
 # the resulting output can be used on backend or front end solutions (100% portable to TKInter or other GUIs)
 # Developed by Luciano Lima, 2017-2019
-# This Project is an Open Source contribution for the software and traders communities.
+# This is only a piece of the whole solution, displayed here to contribute with Open Source community and Traders
+# if you need a full working solution, able to send orders, set-up strategies, etc, fell free to send an e-mail.
 # Released under GNU license (read GNU files included)
 # luciano.lima1933@gmail.com
 #
@@ -21,7 +22,7 @@
 #   dialog
 # 
 # EXECUTION
-#   Once the libraries are installed, place the file into a directory and type:
+#   Once the libraries are installed, place the file into a working directory and type:
 #   python3.6 bitmex_websocket_v1.1.py
 #
 # TIPS
